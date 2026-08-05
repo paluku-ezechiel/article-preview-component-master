@@ -53,12 +53,12 @@ ul {
   overflow: hidden;
 }
 
-/* .container-image {
+.container-image {
   background: url("../../images/drawers.jpg");
   background-size: cover;
   background-position: center;
   flex: auto;
-} */
+}
 
 /* .content {
   background-color: white;
