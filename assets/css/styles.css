@@ -92,21 +92,21 @@ ul {
   margin-bottom: 1rem;
 }
 
-/* .content-texte p {
+.content-texte p {
   font-size: 1.2rem;
   color: var(--Desaturated_Dark_Blue);
   margin-bottom: 2rem;
-} */
+}
 
-/* .item-text p:first-child {
+.item-text p:first-child {
   font-weight: 700;
   font-size: 1.3rem;
   color: var(--Desaturated_Dark_Blue);
-} */
+}
 
-/* .item-text p:last-child {
+.item-text p:last-child {
   color: var(--Desaturated_Dark_Blue);
-} */
+}
 
 /* .share-container {
   position: relative;
