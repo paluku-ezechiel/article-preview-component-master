@@ -150,7 +150,7 @@ ul {
   display: none;
 }
 
-/* @media screen and (max-width: 600px) {
+ @media screen and (max-width: 600px) {
   .container {
     flex-direction: column;
   }
@@ -178,19 +178,20 @@ ul {
     border-radius: 0 0 1rem 1rem;
     padding: 0 2rem;
     justify-content: flex-start;
-  } */
+  } 
 
   
-  /* .share-container button.active {
+  .share-container button.active {
     background-color: var(--Desaturated_Dark_Blue); 
     position: relative;
     z-index: 11; 
-  } */
+  } 
 
  
-  /* .share-container button.active i,
+  .share-container button.active i,
   .share-container button.active svg {
     color: #ffffff;
     fill: #ffffff;
-  } */
+  } 
 
+}
