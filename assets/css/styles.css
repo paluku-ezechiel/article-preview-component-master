@@ -108,11 +108,11 @@ ul {
   color: var(--Desaturated_Dark_Blue);
 }
 
-/* .share-container {
+.share-container {
   position: relative;
-} */
+}
 
-/* .share-container button {
+.share-container button {
   display: inline-block;
   border: none;
   outline: none;
@@ -120,7 +120,7 @@ ul {
   padding: 0.3rem;
   border-radius: 50%;
   margin-bottom: 1rem;
-} */
+}
 
 /* .share-tooltip {
   position: absolute;
