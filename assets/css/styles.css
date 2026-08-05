@@ -85,12 +85,12 @@ ul {
   overflow: hidden;
 }
 
-/* .content-title h1 {
+.content-title h1 {
   font-weight: 700px;
   font-size: 2rem;
   color: var(--Desaturated_Dark_Blue);
   margin-bottom: 1rem;
-} */
+}
 
 /* .content-texte p {
   font-size: 1.2rem;
