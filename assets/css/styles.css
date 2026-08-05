@@ -13,7 +13,7 @@
   --Light_Grayish_Blue: hsl(210, 46%, 95%);
 }
 
-/* body {
+body {
   padding: 2rem;
   font-size: 13px;
   font-family: "Manrope", sans-serif;
@@ -23,7 +23,7 @@
   align-items: center;
   background-color: var(--Light_Grayish_Blue);
   min-height: 100vh;
-} */
+}
 
 /* h1,
 h2,
