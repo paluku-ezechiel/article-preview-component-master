@@ -46,12 +46,12 @@ ul {
   color: #333;
 }
 
-/* .container {
+.container {
   width: 100%;
   display: flex;
   border-radius: 1rem;
   overflow: hidden;
-} */
+}
 
 /* .container-image {
   background: url("../../images/drawers.jpg");
