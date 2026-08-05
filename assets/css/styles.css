@@ -137,14 +137,14 @@ ul {
   z-index: 10;
 }
 
-/* .tooltip-title {
+.tooltip-title {
   font-size: 1rem;
   color: var(--Desaturated_Dark_Blue);
-} */
+}
 
-/* .fa-brands {
+.fa-brands {
   color: var(--Light_Grayish_Blue);
-} */
+}
 
 /* .hidden {
   display: none;
